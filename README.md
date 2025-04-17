@@ -8,6 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=rithmi&label=Profile+views&color=ff69b4&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/rithmi?label=GitHub+Followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/twitter/follow/rithmi?style=social" alt="Twitter Followers" />
+  
 </p>
 
 ---
@@ -38,6 +39,7 @@
 ### 📚 Frameworks & Libraries
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### 🔧 Backend & Databases
@@ -50,7 +52,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Balsamiq](https://img.shields.io/badge/Balsamiq-FF6600?style=for-the-badge&logo=balsamiq&logoColor=white)
 
-### 🔨 Tools & Platforms
+### 🛠 Tools & Platforms
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Code.org](https://img.shields.io/badge/Code.org-000000?style=for-the-badge&logo=code.org&logoColor=white)
 ![Scratch](https://img.shields.io/badge/Scratch-FFA500?style=for-the-badge&logo=scratch&logoColor=white)
@@ -83,4 +85,3 @@
 ---
 
 <h3 align="center">✨ Let's connect and build something amazing together! 🚀</h3>
-
