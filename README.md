@@ -22,6 +22,14 @@
 - 📫 Reach me at: **rithmithewarapperuma64@gmail.com**
 
 ---
+<h3 align="center">
+  🐍 GitHub Contribution Snake
+</h3>
+
+<p align="center">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+</p>
+
 
 ## 🧩 Skills & Tools – Badges Edition
 
